@@ -1,5 +1,10 @@
 *Observable Plot on the command line*
 
+Install this module with:
+~~~bash
+yarn
+~~~
+
 Add your own Plot definition in index.js, then run:
 
 ~~~bash
