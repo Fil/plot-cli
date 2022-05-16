@@ -2,7 +2,6 @@
   "name": "plot-cli",
   "version": "1.0.0",
   "description": "Plot on the command line",
-  "main": "index.js",
   "repository": "https://github.com/fil/plot-cli",
   "author": "Fil",
   "license": "MIT",
