@@ -5,7 +5,7 @@ Install this module with:
 yarn
 ~~~
 
-Add your own Plot definition in index.js, then run:
+Add your own Plot definition in chart_svg.js, then run:
 
 ~~~bash
 node chart_svg.js > result.svg
