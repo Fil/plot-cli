@@ -21,3 +21,4 @@ If the chart has a legend, or a caption, Plot returns an HTML node instead of a 
 node chart_html.js > result.html
 ~~~
 
+<video src="https://user-images.githubusercontent.com/7001/168634625-4daf68ef-961f-4c57-aeab-02a9a9aab1ed.mp4" width="400"></video>
