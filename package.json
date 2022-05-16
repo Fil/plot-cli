@@ -1,0 +1,16 @@
+{
+  "name": "plot-cli",
+  "version": "1.0.0",
+  "description": "Plot on the command line",
+  "main": "index.js",
+  "repository": "https://github.com/fil/plot-cli",
+  "author": "Fil",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@observablehq/plot": "^0.4",
+    "d3": "7",
+    "jsdom": "19",
+    "js-beautify": "1"
+  }
+}
